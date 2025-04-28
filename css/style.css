@@ -875,7 +875,7 @@ h6 {
 }
 .foliox_tm_counter .counter_list ul li h3 {
   font-size: 60px;
-  color: var(--extra-color);
+  color: #625a7d;
 }
 .foliox_tm_counter .counter_list ul li .title {
   font-size: 18px;
@@ -1062,7 +1062,7 @@ h6 {
   width: 65px;
   height: 65px;
   border-radius: 100%;
-  background-color: #5d5e82;
+  background-color: #39194f;
   margin-bottom: 53px;
 }
 .foliox_tm_services .list ul li .icon:before {
@@ -1091,7 +1091,7 @@ h6 {
   position: absolute;
   top: -50%;
   left: -40%;
-  color: var(--extra-color);
+  color: #5d5e82;
   z-index: 2;
 
   -webkit-transition: all 0.3s ease;
@@ -3211,11 +3211,7 @@ body {
   height: 100vh;
   float: left;
   position: relative;
-  background: linear-gradient(
-    to right,
-    rgba(255, 255, 255, 0.95) 50%,
-    rgba(255, 255, 255, 0.85) 100%
-  );
+  background-color: #fff;
 }
 
 .foliox_tm_hero .content {
